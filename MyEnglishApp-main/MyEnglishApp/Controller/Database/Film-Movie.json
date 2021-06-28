@@ -102,15 +102,37 @@
         "CorrectAns": "Blockbuster",
         "Pronunciation":"/ˈblɑːkˌbʌs.tɚ/"
     },{
-        "Question" : "Phản bội",
-        "Choice" : ["Gas exhaust","Catalyze","Dispose","Traitor"],
-        "CorrectAns": "Traitor",
-        "Pronunciation":"/ˈtreɪ.t̬ɚ/"
+        "Question" : "Tấm vé",
+        "Choice" : ["Gas exhaust","Ticket","Dispose","Traitor"],
+        "CorrectAns": "Ticket",
+        "Pronunciation":"/tɪk.ɪt/"
     },{
-        "Question" : "Phim kinh dị",
-        "Choice" : ["Woodland","Ecosystem","Erosion","Thriller"],
-        "CorrectAns": "Thriller",
-        "Pronunciation":"/ˈθrɪl.ɚ/"
+        "Question" : "Chỗ ngồi",
+        "Choice" : ["Woodland","Seat","Erosion","Thriller"],
+        "CorrectAns": "Seat",
+        "Pronunciation":"/sit/"
+    },{
+        
+            "Question" : "Người nổi tiếng",
+            "Choice" : ["Erosion","Catalyze","Celebrities","Projector"],
+            "CorrectAns": "Celebrities",
+            "Pronunciation":"/səˈlɛbrɪtiz/"
+    },{
+        "Question" : "Phim hình sự",
+        "Choice" : ["Crime Film","War Film","Tragedy","Horror"],
+        "CorrectAns": "Crime Film",
+        "Pronunciation":"/kraɪm fɪlm/"
+    },{
+        "Question" : "Hãng sản xuất phim",
+        "Choice" : ["Historical","Drama","Entertainment","Cartoon"],
+        "CorrectAns": "Entertainment",
+        "Pronunciation":"/en.t̬ɚˈteɪn.mənt/"
+    },{
+        "Question" :"Bắp rang/Bỏng ngô",
+        "Choice" : ["Pure","Popcorn","Plot","Poisonous"],
+        "CorrectAns": "Popcorn",
+        "Pronunciation":"/pɑːp.kɔːrn/"
+       
     }]
   
 }
