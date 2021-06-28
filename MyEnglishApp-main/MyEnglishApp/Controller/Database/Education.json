@@ -1,0 +1,139 @@
+{  "data":
+    [{
+    "Question" : "Trường mầm non",
+    "Choice" : ["Higher education","University","College","Kindergarten"],
+    "CorrectAns": "Kindergarten",
+    "Pronunciation":"/ˈkɪn.dɚˌɡɑːr.tən/"
+},{
+    "Question" : "Đại số học",
+    "Choice" : ["Tracing","Geography","Chemistry","Algebra"],
+    "CorrectAns": "Algebra",
+    "Pronunciation":"/ˈæl.dʒə.brə/"
+},{
+    "Question" : "Văn học",
+    "Choice" : ["Literature","Catalyze","Economics","Greenhouse"],
+    "CorrectAns": "Literature",
+    "Pronunciation":"/ˈlɪt̬.ɚ.ə.tʃɚ/"
+},{
+    "Question" : "Thạc sĩ",
+    "Choice" : ["Master","University","Science","Optional"],
+    "CorrectAns": "Master",
+    "Pronunciation":"/ˈmæs.tɚ/"
+},{
+    "Question" : "Chính trị học",
+    "Choice" : ["Politics","Geography","Chemistry","Algebra"],
+    "CorrectAns": "Politics",
+    "Pronunciation":"/ˈpɑː.lə.tɪks/"
+},{
+    "Question" : "Kỹ thuật",
+    "Choice" : ["Literature","Catalyze","Engineering","Greenhouse"],
+    "CorrectAns": "Engineering",
+    "Pronunciation":"/ˌen.dʒɪˈnɪr.ɪŋ/"
+},{
+    "Question" : "Tâm lý học",
+    "Choice" : ["Politics","Psychology","Chemistry","Algebra"],
+    "CorrectAns": "Psychology",
+    "Pronunciation":""
+},{
+    "Question" : "Nhân chủng học",
+    "Choice" : ["Anthropology","Ethics","Engineering","Politics"],
+    "CorrectAns": "Anthropology",
+    "Pronunciation":"/saɪˈkɑː.lə.dʒi/"
+},{
+    "Question" : "Môn đạo đức",
+    "Choice" : ["Politics","Psychology","Ethics","Algebra"],
+    "CorrectAns": "Ethics",
+    "Pronunciation":"/ˈeθ·ɪks/"
+},{
+    "Question" : "Địa lý",
+    "Choice" : ["Geography","Ethics","Engineering","Politics"],
+    "CorrectAns": "Geography",
+    "Pronunciation":"/dʒiˈɑː.ɡrə.fi/"
+},{
+    "Question" : "Phương pháp",
+    "Choice" : ["Method","Ethics","Subject","Literature"],
+    "CorrectAns": "Method",
+    "Pronunciation":"/ˈmeθ.əd/"
+},{
+    "Question" : "Chứng chỉ",
+    "Choice" : ["Certificate","Exercise","Syllabus","Politics"],
+    "CorrectAns": "Certificate",
+    "Pronunciation":"/sɚˈtɪf.ə.kət/"
+},{
+    "Question" : "Giáo trình",
+    "Choice" : ["Literature","Catalyze","Syllabus","Greenhouse"],
+    "CorrectAns": "Syllabus",
+    "Pronunciation":"/ˈsɪl.ə.bəs/"
+},{
+    "Question" : "Hạnh kiểm",
+    "Choice" : ["Conduct","Ethics","Lesson","Tutor"],
+    "CorrectAns": "Conduct",
+    "Pronunciation":"/kənˈdʌkt/"
+},{
+    "Question" : "Khuôn viên trường",
+    "Choice" : ["Accredit","Exercise","Enroll","Campus"],
+    "CorrectAns": "Accredit",
+    "Pronunciation":"/əˈkred.ɪt/"
+},{
+    "Question" : "Nhập học",
+    "Choice" : ["Conduct","Enrollment","Lesson","Research"],
+    "CorrectAns": "Enrollment",
+    "Pronunciation":"/inˈrōlmənt/"
+},{
+    "Question" : "Kiểm định chất lượng",
+    "Choice" : ["Accredit","University","College","Cheating"],
+    "CorrectAns": "Accredit",
+    "Pronunciation":"/əˈkred.ɪt/"
+},{
+    "Question" : "Học kỳ",
+    "Choice" : ["Literature","Catalyze","Term","Greenhouse"],
+    "CorrectAns": "Term",
+    "Pronunciation":"/tɝːm/"
+},{
+    "Question" : "Tài liệu",
+    "Choice" : ["Method","Materials","Subject","Conduct"],
+    "CorrectAns": "Materials",
+    "Pronunciation":"/məˈtɪr.i.əl/"
+},{
+    "Question" : "Giáo viên dạy thêm",
+    "Choice" : ["Master","Tutor","Science","Optional"],
+    "CorrectAns": "Tutor",
+    "Pronunciation":"/ˈtuː.t̬ɚ/"
+},{
+    "Question" : "Hiệu trưởng",
+    "Choice" : ["Accredit","Exercise","Principal","Campus"],
+    "CorrectAns": "Principal",
+    "Pronunciation":"/ˈprɪn.sə.pəl/"
+},{
+    "Question" : "Dạy nghề",
+    "Choice" : ["Literature","Catalyze","Term","Vocational"],
+    "CorrectAns": "Vocational",
+    "Pronunciation":"/voʊˈkeɪ.ʃən.əl/"
+},{
+    "Question" : "Bạn đồng trang lứa",
+    "Choice" : ["Master","Tutor","Peer","Optional"],
+    "CorrectAns": "Peer",
+    "Pronunciation":"/pɪər/"
+},{
+    "Question" : "Tiến sĩ",
+    "Choice" : ["Certificate","Exercise","Syllabus","Doctorate"],
+    "CorrectAns": "Doctorate",
+    "Pronunciation":"/dɑːk.tɚ.ət/"
+},{
+    "Question" : "Thực tập",
+    "Choice" : ["Geography","Ethics","Internship","Politics"],
+    "CorrectAns": "Internship",
+    "Pronunciation":"/ɪn.tɝːn.ʃɪp/"
+},{
+    "Question" : "Đánh giá",
+    "Choice" : ["Accredit","Evaluate","College","Specialist"],
+    "CorrectAns": "Evaluate",
+    "Pronunciation":"/ɪˈvæl.ju.eɪt/"
+},{
+    "Question" : "Khuôn khổ, nguyên tắc",
+    "Choice" : ["Discipline","University","College","Kindergarten"],
+    "CorrectAns": "Discipline",
+    "Pronunciation":"/ˈdɪs.ə.plɪn/"
+}]
+    
+}

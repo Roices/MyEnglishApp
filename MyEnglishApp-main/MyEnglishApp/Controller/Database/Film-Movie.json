@@ -1,0 +1,118 @@
+{
+    "data":[
+   {
+        "Question" :"Cốt truyện",
+        "Choice" : ["Pure","Thorny","Plot","Poisonous"],
+        "CorrectAns": "Plot",
+        "Pronunciation":"/plɑːt/"
+    },
+    {
+        "Question" : "Bối cảnh",
+        "Choice" : ["Background","Produce","Release","Screen"],
+        "CorrectAns": "Background",
+        "Pronunciation":"/ˈbæk.ɡraʊnd/"
+    },
+    {
+        "Question" : "Diễn viên chính",
+        "Choice" : ["Main actor","Plot","Pollution","Solar panel"],
+        "CorrectAns": "Main actor",
+        "Pronunciation":"/meɪn ˈæk.tɚ/"
+    },
+    {
+        "Question" : "Nhân vật",
+        "Choice" : ["Trailer","Character","Shortage","Solar panel"],
+        "CorrectAns": "Character",
+        "Pronunciation":"/ˈker.ək.tɚ/"
+    },
+    {
+        "Question" : "Nhà làm phim",
+        "Choice" : ["Emissions","Movie maker","Release","Director"],
+        "CorrectAns": "Movie maker",
+        "Pronunciation":"/ˈmuː.viˌmeɪ.kɚ/"
+    },
+    {
+        "Question" : "Đạo diễn",
+        "Choice" : ["Woodland","Director","Release","Solar panel"],
+        "CorrectAns": "Director",
+        "Pronunciation":"/daɪˈrek.tɚ/"
+    },
+    {
+        "Question" : "Nhà phê bình phim",
+        "Choice" : ["Cast","Solar panel","Film critic","Soil erosion"],
+        "CorrectAns": "Film critic",
+        "Pronunciation":"/fɪlm ˈkrɪt̬.ɪk/"
+    },{
+        "Question" : "Nhà biên kịch",
+        "Choice" : ["Contamination","Director","Scriptwriter","Polluter"],
+        "CorrectAns": "Scriptwriter",
+        "Pronunciation":"/ˈskrɪptˌraɪ.t̬ɚ/"
+    },{
+        "Question" : "Kinh dị",
+        "Choice" : ["Gas exhaust","Action","Horror","Historical"],
+        "CorrectAns": "Horror",
+        "Pronunciation":"/ˈhɔːr.ɚ/"
+    },{
+        "Question" : "Cổ trang",
+        "Choice" : ["Historical","Drama","Release","Cartoon"],
+        "CorrectAns": "Historical",
+        "Pronunciation":"/hɪˈstɔːr.ɪ.kəl/"
+    },{
+        "Question" : "Hoạt Hình",
+        "Choice" : ["Cartoon","Gangster","War","Polluter"],
+        "CorrectAns": "Cartoon",
+        "Pronunciation":"/kɑːrˈtuːn/"
+    },{
+        "Question" : "Phim hài",
+        "Choice" : ["Comedy","emission","Sitcom","Soil erosion"],
+        "CorrectAns": "Comedy",
+        "Pronunciation":"/ˈkɑː.mə.di/"
+    },{
+        "Question" : "Phim hình sự",
+        "Choice" : ["Crime Film","War Film","Tragedy","Horror"],
+        "CorrectAns": "Crime Film",
+        "Pronunciation":"/kraɪm fɪlm/"
+    },{
+        "Question" : "Bi kịch",
+        "Choice" :["Tragedy","Drama","Deforestation","Musical"],
+        "CorrectAns": "Tragedy",
+        "Pronunciation":"/ˈtrædʒ.ə.di/"
+    },{
+        "Question" : "Rạp chiếu phim",
+        "Choice" : ["Emissions","Excessive","release","Cinema"],
+        "CorrectAns": "Cinema",
+        "Pronunciation":"/ˈsɪn.ə.mə/"
+    },{
+        "Question" : "Thuyết minh, lồng tiếng",
+        "Choice" : ["Curb","Preservation","Dubbed","Over-abuse"],
+        "CorrectAns": "Dubbed",
+        "Pronunciation":"/dʌbd/"
+    },{
+        "Question" : "Máy chiếu phim",
+        "Choice" : ["Gas exhaust","Catalyze","Dispose","Projector"],
+        "CorrectAns": "Projector",
+        "Pronunciation":"/prəˈdʒek.tɚ/"
+    },{
+        "Question" : "Phụ đề",
+        "Choice" : ["Woodland","Ecosystem","Habitats","Subtitles"],
+        "CorrectAns": "Subtitles",
+        "Pronunciation":"/ˈsʌbˌtaɪ.t̬əl/"
+    },{
+        "Question" : "Phim bom tấn",
+        "Choice" : ["Endangered","Ecosystem","Pollutant","Blockbuster"],
+        "CorrectAns": "Blockbuster",
+        "Pronunciation":"/ˈblɑːkˌbʌs.tɚ/"
+    },{
+        "Question" : "Phản bội",
+        "Choice" : ["Gas exhaust","Catalyze","Dispose","Traitor"],
+        "CorrectAns": "Traitor",
+        "Pronunciation":"/ˈtreɪ.t̬ɚ/"
+    },{
+        "Question" : "Phim kinh dị",
+        "Choice" : ["Woodland","Ecosystem","Erosion","Thriller"],
+        "CorrectAns": "Thriller",
+        "Pronunciation":"/ˈθrɪl.ɚ/"
+    }]
+  
+}
+
+

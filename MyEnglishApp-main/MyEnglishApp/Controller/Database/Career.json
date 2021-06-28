@@ -1,0 +1,145 @@
+{  "data":
+    [{
+    "Question" : "Kế toán",
+    "Choice" : ["Accountant","University","College","Kindergarten"],
+    "CorrectAns": "Accountant",
+    "Pronunciation": "/ə’kauntənt/"
+},{
+    "Question" : "Kiến trúc sư",
+    "Choice" : ["Tracing","Geography","Architect","Algebra"],
+    "CorrectAns": "Architect",
+    "Pronunciation": "/‘ɑ:kitekt/"
+},{
+    "Question" : "Họa sĩ",
+    "Choice" : ["Literature","Catalyze","Economics","Artist"],
+    "CorrectAns": "Artist",
+    "Pronunciation": "/‘ɑ:tist/"
+},{
+    "Question" : "Công nhân lắp ráp",
+    "Choice" : ["Master","Assembler","Science","Optional"],
+    "CorrectAns": "Assembler",
+    "Pronunciation": "/ə’semblə:/"
+},{
+    "Question" : "Người làm bánh",
+    "Choice" : ["Politics","Baker","Chemistry","Algebra"],
+    "CorrectAns": "Baker",
+    "Pronunciation": "/’beikə/"
+},{
+    "Question" : "Thợ hớt tóc",
+    "Choice" : ["Literature","Barber","Engineering","Greenhouse"],
+    "CorrectAns": "Barber",
+    "Pronunciation": "/’beikə/"
+},{
+    "Question" : "Doanh nhân",
+    "Choice" : ["Politics","Businessman","Baker","Barber"],
+    "CorrectAns": "Businessman",
+    "Pronunciation": "/’biznismən/"
+},{
+    "Question" : "Người bán thịt",
+    "Choice" : ["Butcher","Ethics","Engineering","Politics"],
+    "CorrectAns": "Butcher",
+    "Pronunciation": "/ˈbʊtʃ.ər/"
+},{
+    "Question" : "Thợ mộc",
+    "Choice" : ["Politics","Butcher","Ethics","Carpenter"],
+    "CorrectAns": "Carpenter",
+    "Pronunciation": "/ˈkɑː.pɪn.tər/"
+},{
+    "Question" : "Thu ngân",
+    "Choice" : ["Cashier","Ethics","Butcher","Politics"],
+    "CorrectAns": "Cashier",
+    "Pronunciation": "/kæʃˈɪər/"
+},{
+    "Question" : "Đầu bếp",
+    "Choice" : ["Accountant","Barber","Subject","Chef"],
+    "CorrectAns": "Chef",
+    "Pronunciation": "/ʃef/"
+},{
+    "Question" : "Kỹ sư",
+    "Choice" : ["Certificate","Exercise","Syllabus","Engineer"],
+    "CorrectAns": "Engineer",
+    "Pronunciation": "/ˌen.dʒɪˈnɪər/"
+},{
+    "Question" : "Người làm vườn",
+    "Choice" : ["Gardener","Catalyze","Chef","Accountant"],
+    "CorrectAns": "Gardener",
+    "Pronunciation": "/ˈɡɑː.dən.ər/"
+},{
+    "Question" : "Người giao hàng",
+    "Choice" : ["Conduct","Ethics","Delivery person","Tutor"],
+    "CorrectAns": "Delivery person",
+    "Pronunciation": "/dɪˈlɪv.ər.i ˈpɜː.sən/"
+},{
+    "Question" : "Công nhân",
+    "Choice" : ["Accredit","Worker","Enroll","Campus"],
+    "CorrectAns": "Worker",
+    "Pronunciation": "/ˈwɜː.kər/"
+},{
+    "Question" : "Nông dân",
+    "Choice" : ["Conduct","Farmer","Gardener","Research"],
+    "CorrectAns": "Farmer",
+    "Pronunciation": "/ˈfɑː.mər/"
+},{
+    "Question" : "Lính cứu hỏa",
+    "Choice" : ["Accredit","Fireman","College","Cheating"],
+    "CorrectAns": "Fireman",
+    "Pronunciation": "/ˈfaɪə.mən/"
+},{
+    "Question" : "Ngư dân",
+    "Choice" : ["Worker","Fisherman","Term","Farmer"],
+    "CorrectAns": "Fisherman",
+    "Pronunciation": "/ˈfɪʃ.ə.mən/"
+},{
+    "Question" : "Quản đốc",
+    "Choice" : ["Delivery","Foreman","Subject","Engineer"],
+    "CorrectAns": "Foreman",
+    "Pronunciation": "/ˈfɔː.mən/"
+},{
+    "Question" : "Thợ uốn tóc",
+    "Choice" : ["Master","Tutor","Hairdresser","Optional"],
+    "CorrectAns": "Hairdresser",
+    "Pronunciation": "/ˈheəˌdres.ər/"
+},
+{
+    "Question" : "Người giúp việc nhà",
+    "Choice" : ["Accountant","University","College","Homemaker"],
+    "CorrectAns": "Homemaker",
+    "Pronunciation": "/ˈhəʊmˌmeɪ.kər/"
+},{
+    "Question" : "Nhà báo",
+    "Choice" : ["Gardener","Journalist","Chef","Accountant"],
+    "CorrectAns": "Journalist",
+    "Pronunciation": "/ˈdʒɝː.nə.lɪst/"
+},{
+    "Question" : "Nhân viên đưa thư",
+    "Choice" : ["Worker","Fisherman","Letter carrier","Farmer"],
+    "CorrectAns": "Letter carrier",
+    "Pronunciation": "/ˈlet̬.ɚ ˌker.i.ɚ/"
+},{
+    "Question" : "Quản lý",
+    "Choice" : ["Accountant","Barber","Manager","Chef"],
+    "CorrectAns": "Manager",
+    "Pronunciation": "/mæn.ə.dʒɚ/"
+},{
+    "Question" : "Thợ làm móng tay",
+    "Choice" : ["Accredit","Fireman","College","Manicurist"],
+    "CorrectAns": "Manicurist",
+    "Pronunciation": "/mæn.ə.kjʊr.ɪst/"
+},{
+    "Question" : "Thợ máy, thơ cơ khí",
+    "Choice" : ["Cashier","Ethics","Butcher","Mechanic"],
+    "CorrectAns": "Mechanic",
+    "Pronunciation": "/məˈkæn.ɪk/"
+},{
+    "Question" : "Nhạc sĩ",
+    "Choice" : ["Worker","Fisherman","Musician","Farmer"],
+    "CorrectAns": "Musician",
+    "Pronunciation": "/mjuːˈzɪʃ.ən/"
+},{
+    "Question" : "Thợ sơn",
+    "Choice" : ["Accountant","University","College","Painter"],
+    "CorrectAns": "Painter",
+    "Pronunciation": "/peɪn.t̬ɚ/"
+}]
+    
+}

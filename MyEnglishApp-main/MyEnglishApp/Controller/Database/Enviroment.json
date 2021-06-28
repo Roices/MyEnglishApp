@@ -1,0 +1,179 @@
+{
+    "data":[
+   {
+        "Question" :"Trong lành",
+        "Choice" : ["Pure","Thorny","Acute","Poisonous"],
+        "CorrectAns": "Pure",
+         "Pronunciation":"/pjuə/"
+    },
+    {
+        "Question" : "Khí thải",
+        "Choice" : ["Emissions","Produce","Release","Absorb"],
+        "CorrectAns": "Emissions",
+        "Pronunciation":"/i'miʃn/"
+    },
+    {
+        "Question" : "Sự bảo tồn",
+        "Choice" : ["Contamination","Preservation","Pollution","Solar panel"],
+        "CorrectAns": "Preservation",
+        "Pronunciation":"/prɛzəːˈveɪʃən/"
+    },
+    {
+        "Question" : "Sự thiếu hụt",
+        "Choice" : ["Soil erosion","Preservation","Shortage","Solar panel"],
+        "CorrectAns": "Shortage",
+        "Pronunciation":""
+    },
+    {
+        "Question" : "Giải pháp thay thế",
+        "Choice" : ["Emissions","Preserve","Release","Alternatives"],
+        "CorrectAns": "Alternatives",
+        "Pronunciation":"/ɔːlˈtɜːnətɪv/"
+    },
+    {
+        "Question" : "Hệ sinh thái",
+        "Choice" : ["Woodland","Ecosystem","Release","Solar panel"],
+        "CorrectAns": "Ecosystem",
+        "Pronunciation":"/ˈiːkəʊˌsɪstəm/"
+    },
+    {
+        "Question" : "Ô nhiễm môi trường",
+        "Choice" : ["Pollution","Solar panel","Environmental","Soil erosion"],
+        "CorrectAns": "Pollution",
+        "Pronunciation":"/pəˈluːʃən/"
+    },{
+        "Question" : "Làm nhiễm độc",
+        "Choice" : ["Contamination","Preservation","Deforestation","Polluter"],
+        "CorrectAns": "Contamination",
+        "Pronunciation":"/kən,tæmi'neiʃn/"
+    },{
+        "Question" : "Hiệu ứng nhà kính",
+        "Choice" : ["Gas exhaust","Natural","Deforestation","Greenhouse"],
+        "CorrectAns": "Greenhouse",
+        "Pronunciation":"/ˈgriːnhaʊs/"
+    },{
+        "Question" : "Xói mòn ",
+        "Choice" : ["Emissions","Solar panel","Release","Erosion"],
+        "CorrectAns": "Erosion",
+        "Pronunciation":"/ɪˈrəʊʒən/"
+    },{
+        "Question" : "Phá rừng",
+        "Choice" : ["Contamination","Preservation","Deforestation","Polluter"],
+        "CorrectAns": "Deforestation",
+        "Pronunciation":"/dɪˌfɒrɪˈsteɪʃ(ə)n/"
+    },{
+        "Question" : "Sinh thái học",
+        "Choice" : ["Pollution","Ecology","Preservation","Soil erosion"],
+        "CorrectAns": "Ecology",
+        "Pronunciation":"/ɪˈkɒləʤi/"
+        
+    },{
+        "Question" : "Chất gây ô nhiễm",
+        "Choice" : ["Contamination","Preservation","Pollutant","Polluter"],
+        "CorrectAns": "Pollutant",
+        "Pronunciation":"/pə'lu:tənt/"
+    },{
+        "Question" : "Sự đa dạng sinh học",
+        "Choice" : ["Gas exhaust","Biodiversity","Deforestation","Greenhouse"],
+        "CorrectAns": "Biodiversity",
+        "Pronunciation":"/ˌbaɪ.oʊ.dɪˈvɝː.sə.t̬i/"
+    },{
+        "Question" : "Quá mức",
+        "Choice" : ["Emissions","Excessive","Release","Alternatives"],
+        "CorrectAns": "Excessive",
+        "Pronunciation":"/ɪkˈses/"
+    },{
+        "Question" : "Lạm dụng quá mức",
+        "Choice" : ["Curb","Preservation","Deforestation","Over abuse"],
+        "CorrectAns": "Over abuse",
+        "Pronunciation":" /ˈoʊ.vɚ əˈbjuːz/"
+    },{
+        "Question" : "Xúc tác",
+        "Choice" : ["Gas exhaust","Catalyze","Dispose","Greenhouse"],
+        "CorrectAns": "Catalyze",
+        "Pronunciation":"/ˈkæt.əl.aɪz/"
+    },{
+        "Question" : "Môi trường sống",
+        "Choice" : ["Woodland","Ecosystem","Habitats","Solar panel"],
+        "CorrectAns": "Habitats",
+        "Pronunciation":"/ˈhæb.ə.tæt/"
+    },{
+        "Question" : "Nguy cơ tuyệt chủng",
+        "Choice" : ["Endangered","Ecosystem","Pollutant","Polluter"],
+        "CorrectAns": "Endangered",
+        "Pronunciation":"/ɪnˈdeɪn.dʒɚd/"
+    },{
+        "Question" : "Bụi bẩn ",
+        "Choice" : ["Gas exhaust","Catalyze","Dispose","Dust"],
+        "CorrectAns": "Dust",
+        "Pronunciation":"/dʌst/"
+    },{
+        "Question" : "Sự làm mòn",
+        "Choice" : ["Woodland","Ecosystem","Erosion","Solar panel"],
+        "CorrectAns": "Erosion",
+        "Pronunciation":"/ɪˈroʊ.ʒən/"
+    },{
+        "Question" : "Khí quyển",
+        "Choice" : ["Curb","Preservation","Ozone","Over-abuse"],
+        "CorrectAns": "Ozone",
+        "Pronunciation":"/ˈoʊ.zoʊn/"
+    },{
+        "Question" : "Khí hậu ",
+        "Choice" : ["Climate","Catalyze","Dispose","Projector"],
+        "CorrectAns": "Climate",
+        "Pronunciation":"/ˈklaɪ.mət/"
+    },{
+        "Question" : "Sinh vật",
+        "Choice" : ["Woodland","Creature","Habitats","Solar panel"],
+        "CorrectAns": "Creature",
+        "Pronunciation":"/ˈkriː.tʃɚ/"
+    },{
+        "Question" :"Sự vứt bỏ",
+        "Choice" : ["Pure","Thorny","Acute","Disposal"],
+        "CorrectAns": "Disposal",
+        "Pronunciation":"/dɪˈspoʊ.zəl/"
+    },{
+        "Question" : "Cơn động đất ",
+        "Choice" : ["Woodland","Ecosystem","Erosion","Earthquake"],
+        "CorrectAns": "Earthquake",
+        "Pronunciation":"/ˈɝːθ.kweɪk/"
+    },{
+        "Question" : "Thực vật, cây cối",
+        "Choice" : ["Contamination","Preservation","Pollution","Vegetation"],
+        "CorrectAns": "Vegetation",
+        "Pronunciation":"/ˌvedʒ.ɪˈteɪ.ʃ ə n/"
+    },{
+        "Question" : "Hệ động vật",
+        "Choice" : ["Climate","Fauna","Dispose","Projector"],
+        "CorrectAns": "Fauna",
+        "Pronunciation":"/ˈfɔːnə/"
+    },{
+        "Question" : "Hệ thực vật",
+        "Choice" : ["Contamination","Preservation","Flora","Polluter"],
+        "CorrectAns": "Flora",
+        "Pronunciation":"/ˈflɔːrə/"
+    },{
+        "Question" : "Động vật hoang dã",
+        "Choice" : ["Wildlife","Catalyze","Dispose","Greenhouse"],
+        "CorrectAns": "Wildlife",
+        "Pronunciation":"/ˈwaɪld.laɪf/"
+    },{
+        "Question" : "Bản năng",
+        "Choice" : ["Curb","Instinct","Ozone","Over-abuse"],
+        "CorrectAns": "Instinct",
+        "Pronunciation":"/ˈɪn.stɪŋkt/"
+    },{
+        "Question" : "Tuyệt chủng",
+        "Choice" : ["Method","Ethics","Extinct","Literature"],
+        "CorrectAns": "Extinct",
+        "Pronunciation":"/ɪkˈstɪŋkt/"
+    },{
+        "Question" :"Sự hấp thụ",
+        "Choice" : ["Pure","Absorption","Acute","Disposal"],
+        "CorrectAns": "Absorptional",
+        "Pronunciation":"/əbˈzɔːrp.ʃən/"
+    }]
+  
+}
+
+

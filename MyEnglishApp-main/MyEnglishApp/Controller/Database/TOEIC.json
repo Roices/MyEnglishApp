@@ -1,0 +1,215 @@
+{
+    "data":[
+   {
+        "Question" :"Phối hợp, kết hợp",
+        "Choice" : ["Pure","Thorny","Coordinate","Poisonous"],
+        "CorrectAns": "Coordinate",
+        "Pronunciation":"/koʊˈɔːr.dən.eɪt/"
+    },
+    {
+        "Question" : "Kích thước",
+        "Choice" : ["Background","Dimension","Release","Screen"],
+        "CorrectAns": "Dimension",
+        "Pronunciation":"/ˌdaɪˈmen.ʃən/"
+    },
+    {
+        "Question" : "Tổng quát",
+        "Choice" : ["Mein","General","Pollution","Solar panel"],
+        "CorrectAns": "General",
+        "Pronunciation":"/ˈdʒen.ər.əl/"
+    },
+    {
+        "Question" : "Sự gần gũi",
+        "Choice" : ["Proximity","Character","Shortage","Solar panel"],
+        "CorrectAns": "Proximity",
+        "Pronunciation":"/prɑːkˈsɪm.ə.t̬i/"
+    },
+    {
+        "Question" : "Điều chỉnh",
+        "Choice" : ["Emissions","Regulate","Recognize","Director"],
+        "CorrectAns": "Regulate",
+        "Pronunciation":"/ˈreɡ.jə.leɪt/"
+    },
+    {
+        "Question" : "Tham khảo",
+        "Choice" : ["Consult","Director","Release","Solar panel"],
+        "CorrectAns": "Consult",
+        "Pronunciation":"/kənˈsʌlt/"
+    },
+    {
+        "Question" : "Thuận lợi",
+        "Choice" : ["Cast","Solar panel","Convenient","Soil erosion"],
+        "CorrectAns": "Convenient",
+        "Pronunciation":"/kənˈviː.ni.ənt/"
+    },{
+        "Question" : "Khám phá ra",
+        "Choice" : ["Detect","Director","Film critic","Polluter"],
+        "CorrectAns": "Detect",
+        "Pronunciation":"/dɪˈtekt/"
+    },{
+        "Question" : "Hợp Đồng",
+        "Choice" : ["Contracts","Action","Horror","Historical"],
+        "CorrectAns": "Contracts",
+        "Pronunciation":"/ˈkɑːn.trækt/"
+    },{
+        "Question" : "Nhân tố, yếu tố",
+        "Choice" : ["Factor","Drama","Release","Cartoon"],
+        "CorrectAns": "Factor",
+        "Pronunciation":"/ˈfæk.tɚ/"
+    },{
+        "Question" : "Tương tác",
+        "Choice" : ["Interaction","Gangster","War","Potential"],
+        "CorrectAns": "Interaction",
+        "Pronunciation":"/ˌɪn.t̬ɚˈræk.ʃən/"
+    },{
+        "Question" : "Giới hạn",
+        "Choice" : ["Limit","emission","Sitcom","Soil erosion"],
+        "CorrectAns": "Limit",
+        "Pronunciation":"/ˈlɪm.ɪt/"
+    },{
+        "Question" : "Tiềm năng",
+        "Choice" : ["Crime Film","Potential","Tragedy","Horror"],
+        "CorrectAns": "Potential",
+        "Pronunciation":"/poʊˈten.ʃəl/"
+    },{
+        "Question" : "Giác quan",
+        "Choice" :["Tragedy","Drama","Deforestation","Sense"],
+        "CorrectAns": "Sense",
+        "Pronunciation":"/sens/"
+    },{
+        "Question" : "Tình nguyện viên",
+        "Choice" : ["Emissions","Excessive","Volunteer","Cinema"],
+        "CorrectAns": "Volunteer",
+        "Pronunciation":"/ˌvɑː.lənˈtɪr/"
+    },{
+        "Question" : "Nhận thấy",
+        "Choice" : ["Curb","Preservation","Dubbed","Aware"],
+        "CorrectAns": "Aware",
+        "Pronunciation":"/əˈwer/"
+    },{
+        "Question" : "Kịp thời gian",
+        "Choice" : ["Catch up","Catalyze","Dispose","Projector"],
+        "CorrectAns": "Catch up",
+        "Pronunciation":"/kætʃ/"
+    },{
+        "Question" : "Sao nhãng",
+        "Choice" : ["Woodland","Ecosystem","Distraction","Subtitles"],
+        "CorrectAns": "Distraction",
+        "Pronunciation":"/dɪˈstræk.ʃən/"
+    },{
+        "Question" : "Khuyến khích",
+        "Choice" : ["Endangered","Ecosystem","Pollutant","Encourage"],
+        "CorrectAns": "Encourage",
+        "Pronunciation":"/ɪnˈkɝː.ɪdʒ/"
+    },{
+        "Question" : "Hiển nhiên",
+        "Choice" : ["Evident","Catalyze","Dispose","Traiter"],
+        "CorrectAns": "Evident",
+        "Pronunciation":"/ˈev.ə.dənt/"
+    },{
+        "Question" : "Tập quán",
+        "Choice" : ["Woodland","Ecosystem","Erosion","Habit"],
+        "CorrectAns": "Habit",
+        "Pronunciation":"/ˈhæb.ɪt/"
+    },{
+        "Question" : "Soi sáng",
+        "Choice" : ["Mein","General","Illuminate","Solar panel"],
+        "CorrectAns": "Illuminate",
+        "Pronunciation":"/ɪˈluː.mə.neɪt/"
+    },{
+        "Question" : "Tổng quan",
+        "Choice" : ["Catch up","Overview","Dispose","Projector"],
+        "CorrectAns": "Overview",
+        "Pronunciation":"/ˈoʊ.vɚ.vjuː/"
+    },{
+        "Question" : "Thường xuyên",
+        "Choice" : ["Woodland","Ecosystem","Distraction","Regularly"],
+        "CorrectAns": "Regularly",
+        "Pronunciation":"/ˈrɛgjələrli/"
+    },{
+        "Question" : "Khôi phục",
+        "Choice" : ["Mein","Restore","Illuminate","Solar panel"],
+        "CorrectAns": "Restore",
+        "Pronunciation":"/rɪˈstɔːr/"
+    },{
+        "Question" : "Nổi bật",
+        "Choice" : ["Outstanding","Materials","Subject","Conduct"],
+        "CorrectAns": "Outstanding",
+        "Pronunciation":"/ˌaʊtˈstændɪŋ/"
+    },{
+        "Question" : "Món nợ",
+        "Choice" : ["Woodland","Debt","Habitats","Subtitles"],
+        "CorrectAns": "Debt",
+        "Pronunciation":"/det/"
+    },{
+        "Question" : "Lợi nhuận",
+        "Choice" : ["Conduct","Profit","Lesson","Tutor"],
+        "CorrectAns": "Profit",
+        "Pronunciation":"/prɑfət/"
+    },{
+        "Question" : "Tích trữ",
+        "Choice" : ["Interaction","Accumulate","War","Potential"],
+        "CorrectAns": "Accumulate",
+        "Pronunciation":"/əˈkjuː.mjə.leɪt/"
+    },{
+        "Question" : "Doanh số",
+        "Choice" : ["Endangered","Turnover","Pollutant","Encourage"],
+        "CorrectAns": "Turnover",
+        "Pronunciation":"/tɝːnˌoʊ.vɚ/"
+    },{
+        "Question" :"Hòa giải",
+        "Choice" : ["Pure","Thorny","Acute","Reconcile"],
+        "CorrectAns": "Reconcile",
+        "Pronunciation":"/rek.ən.saɪl/"
+    },{
+        "Question" : "Khách hàng",
+        "Choice" : ["Client","Ethics","Engineering","Politics"],
+        "CorrectAns": "Client",
+        "Pronunciation":"/klaɪ.ənt/"
+    },{
+        "Question" :"Ngân sách",
+        "Choice" : ["Pure","Thorny","Budget","Poisonous"],
+        "CorrectAns": "Budget",
+        "Pronunciation":"/bʌʤɪt/"
+    },{
+        "Question" : "Tài sản",
+        "Choice" : ["Mein","General","Pollution","Asset"],
+        "CorrectAns": "Asset",
+        "Pronunciation":"/'æs.et/"
+    },{
+        "Question" : "Tương đương",
+        "Choice" : ["Conduct","Enrollment","Lesson","Equivalent"],
+        "CorrectAns": "Equivalent",
+        "Pronunciation":"/ɪˈkwɪv.əl.ənt/"
+    },{
+        "Question" : "Đích đến",
+        "Choice" : ["Mein","Restore","Destination","Solar panel"],
+        "CorrectAns": "Destination",
+        "Pronunciation":"/ˌdes.təˈneɪ.ʃən/"
+    },{
+        "Question" : "Phân biệt",
+        "Choice" : ["Woodland","Debt","Habitats","Distinguish"],
+        "CorrectAns": "Distinguish",
+        "Pronunciation":"/dɪˈstɪŋ.ɡwɪʃ/"
+    },{
+        
+        "Question" : "Kinh tế",
+        "Choice" : ["Economize","Ecosystem","Distraction","Subtitles"],
+        "CorrectAns": "Economize",
+        "Pronunciation":"/iˈkɑː.nə.maɪz/"
+    },{
+        "Question" : "Triển vọng",
+        "Choice" :["Tragedy","Drama","Prospective","Sense"],
+        "CorrectAns": "Prospective",
+        "Pronunciation":"/prəˈspek.tɪv/"
+    },{
+        "Question" : "Mở rộng",
+        "Choice" : ["Expense","Excessive","Volunteer","Cinema"],
+        "CorrectAns": "Expense",
+        "Pronunciation":"/ɪkˈspens/"
+    }]
+  
+}
+
+
+
