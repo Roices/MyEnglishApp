@@ -8,7 +8,7 @@
 import UIKit
 
 class WrongAnsViewController: UIViewController {
-
+//cmt
     @IBOutlet weak var Word: UILabel!
     @IBOutlet weak var Meaning: UILabel!
     
